@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OneBlockSenuk.aternos.me",
-    "port": 44406,
-    "version": "26.2"
+    "ip": "PlayFunSMP-HidJ.aternos.me",
+    "port": 55105,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
